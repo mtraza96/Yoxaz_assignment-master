@@ -1,0 +1,73 @@
+.app {
+  background-color: #edfcfc;
+}
+.container1 {
+  margin: auto 0;
+  padding: 50px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.order-heading {
+  font-size: 30px;
+  font-weight: 700;
+}
+.card {
+  background-color: #fff;
+  border-radius: 25px;
+  border-style: none;
+  padding: 3%;
+  margin-top: 3%;
+}
+.heading {
+  display: flex;
+}
+.css-1q6at85-MuiInputBase-root-MuiOutlinedInput-root {
+  background-color: aliceblue;
+}
+.label {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  color: black !important;
+  margin-bottom: 5px;
+}
+.filter {
+  border: none;
+  color: rgb(232, 232, 232);
+  padding: 15px 32px;
+  border-radius: 10px;
+  margin-top: 10%;
+}
+.search-button {
+  background-color: #04aa6d; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.table-top {
+  margin-top: 10%;
+}
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  padding: 16px 15px !important;
+  background-color: rgb(221, 221, 221) !important;
+  color: #6a6a6a !important;
+  border-style: none !important;
+}
+.css-jh47zj-MuiButtonBase-root-MuiButton-root {
+  padding: 15px 40px !important;
+}
+.input-styling1 .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border-style: none !important;
+}
+.input-styling1 .css-8j6b76-MuiInputBase-root-MuiOutlinedInput-root {
+  background-color: aliceblue;
+}
+.css-1mxz8qt-MuiPaper-root {
+  border-radius: 22px !important;
+}
